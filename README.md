@@ -8,6 +8,16 @@ A comprehensive, hands-on tutorial for learning turtle graphics programming usin
 - Artists interested in generative art
 - Anyone who wants to create beautiful graphics with code
 
+## Table of Contents
+
+- [Overview](#overview)
+- [Getting Started](#getting-started)
+- [Course Structure](#course-structure)
+- [Additional Resources](#additional-resources)
+- [Tips for Success](#tips-for-success)
+- [Contributing](#contributing)
+- [License](#license)
+
 ## Overview
 
 **What you'll learn:**
