@@ -8,6 +8,27 @@
 
 ---
 
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Drawing a Square](#drawing-a-square)
+- [Understanding Angles](#understanding-angles)
+- [Drawing Different Shapes](#drawing-different-shapes)
+- [Adding Colors](#adding-colors)
+- [Controlling Speed](#controlling-speed)
+- [Drawing Rectangles](#drawing-rectangles)
+- [Creating a Function for Any Polygon](#creating-a-function-for-any-polygon)
+- [Practice Exercises](#practice-exercises)
+- [Advanced Example: Rainbow Hexagon](#advanced-example-rainbow-hexagon)
+- [Challenge Project: Geometric Art](#challenge-project-geometric-art)
+- [Key Concepts Review](#key-concepts-review)
+- [Common Mistakes](#common-mistakes)
+- [Week 2 Checklist](#week-2-checklist)
+- [Next Week Preview](#next-week-preview)
+- [Additional Practice](#additional-practice)
+
+---
+
 ## Introduction
 
 This week, we'll move beyond simple lines to create complete shapes. You'll learn how to use loops to make your code more efficient and discover how to add colors to make your drawings more interesting.

@@ -10,6 +10,26 @@
 
 ---
 
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Trigonometry Basics](#trigonometry-basics)
+- [Sine Wave](#sine-wave)
+- [Circular Motion](#circular-motion)
+- [Lissajous Curves](#lissajous-curves)
+- [Fibonacci Spiral](#fibonacci-spiral)
+- [Golden Ratio](#golden-ratio)
+- [Parametric Curves](#parametric-curves)
+- [Practice Exercises](#practice-exercises)
+- [Advanced Examples](#advanced-examples)
+- [Challenge Project: Mathematical Art Gallery](#challenge-project-mathematical-art-gallery)
+- [Key Concepts Review](#key-concepts-review)
+- [Week 10 Checklist](#week-10-checklist)
+- [Next Week Preview](#next-week-preview)
+- [Additional Practice](#additional-practice)
+
+---
+
 ## Introduction
 
 Mathematics and art have been connected for centuries. This week, you'll use mathematical functions to create beautiful patterns, from simple sine waves to complex parametric curves. Discover how numbers can become visual beauty!

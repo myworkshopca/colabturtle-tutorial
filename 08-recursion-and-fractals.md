@@ -10,6 +10,27 @@
 
 ---
 
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Understanding Recursion](#understanding-recursion)
+- [Fractal Trees](#fractal-trees)
+- [Koch Curve](#koch-curve)
+- [Sierpinski Triangle](#sierpinski-triangle)
+- [Dragon Curve](#dragon-curve)
+- [Hilbert Curve](#hilbert-curve)
+- [Practice Exercises](#practice-exercises)
+- [Advanced Examples](#advanced-examples)
+- [Challenge Project: Fractal Art Gallery](#challenge-project-fractal-art-gallery)
+- [Understanding Recursion Depth](#understanding-recursion-depth)
+- [Key Concepts Review](#key-concepts-review)
+- [Common Mistakes](#common-mistakes)
+- [Week 8 Checklist](#week-8-checklist)
+- [Next Week Preview](#next-week-preview)
+- [Additional Practice](#additional-practice)
+
+---
+
 ## Introduction
 
 Recursion is when a function calls itself. This powerful technique is perfect for creating fractals - infinitely complex patterns that are self-similar at different scales. This week unlocks a whole new level of turtle graphics!

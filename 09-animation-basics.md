@@ -10,6 +10,26 @@
 
 ---
 
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Speed Control](#speed-control)
+- [Growing Patterns](#growing-patterns)
+- [Progressive Drawing](#progressive-drawing)
+- [Rotating Animations](#rotating-animations)
+- [Color Transitions](#color-transitions)
+- [Practice Exercises](#practice-exercises)
+- [Advanced Examples](#advanced-examples)
+- [Clearing and Redrawing](#clearing-and-redrawing)
+- [Challenge Project: Animated Scene](#challenge-project-animated-scene)
+- [Timing and Pacing](#timing-and-pacing)
+- [Key Concepts Review](#key-concepts-review)
+- [Week 9 Checklist](#week-9-checklist)
+- [Next Week Preview](#next-week-preview)
+- [Additional Practice](#additional-practice)
+
+---
+
 ## Introduction
 
 Animation brings your turtle graphics to life! This week, you'll learn to create drawings that change over time, showing the drawing process, creating growing patterns, and building dynamic visual effects.

@@ -10,6 +10,26 @@
 
 ---
 
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Final Project Requirements](#final-project-requirements)
+- [Project Ideas](#project-ideas)
+- [Project Planning Phase](#project-planning-phase)
+- [Development Phase](#development-phase)
+- [Project Template](#project-template)
+- [Documentation Guidelines](#documentation-guidelines)
+- [Testing & Debugging](#testing--debugging)
+- [Week 13 Day 6-7: Final Polish](#week-13-day-6-7-final-polish)
+- [Portfolio Presentation](#portfolio-presentation)
+- [Reflection & Next Steps](#reflection--next-steps)
+- [Final Checklist](#final-checklist)
+- [Congratulations!](#congratulations)
+- [Additional Resources](#additional-resources)
+- [Share Your Work!](#share-your-work)
+
+---
+
 ## Introduction
 
 Congratulations on reaching the final week! This week is dedicated to creating your capstone project - a showcase piece that demonstrates everything you've learned. This project will be the centerpiece of your ColabTurtle portfolio.

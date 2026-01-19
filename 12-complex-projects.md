@@ -10,6 +10,23 @@
 
 ---
 
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Project Planning](#project-planning)
+- [Scene Composition](#scene-composition)
+- [Complete Scene Examples](#complete-scene-examples)
+- [Nature Scenes](#nature-scenes)
+- [Abstract Compositions](#abstract-compositions)
+- [Practice Exercises](#practice-exercises)
+- [Challenge Project: Portfolio Piece](#challenge-project-portfolio-piece)
+- [Code Organization](#code-organization)
+- [Week 12 Checklist](#week-12-checklist)
+- [Next Week Preview](#next-week-preview)
+- [Additional Practice](#additional-practice)
+
+---
+
 ## Introduction
 
 This week brings together everything you've learned. You'll plan and execute complex projects that showcase your mastery of turtle graphics, combining shapes, patterns, colors, recursion, randomness, and mathematics into complete artworks.

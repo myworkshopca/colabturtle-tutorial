@@ -8,6 +8,25 @@
 
 ---
 
+## Table of Contents
+
+- [What is Turtle Graphics?](#what-is-turtle-graphics)
+- [Setup ColabTurtle](#setup-colabturtle)
+- [Basic Commands](#basic-commands)
+- [Example 1: Drawing a Line](#example-1-drawing-a-line)
+- [Example 2: Drawing an L-Shape](#example-2-drawing-an-l-shape)
+- [Example 3: Moving Without Drawing](#example-3-moving-without-drawing)
+- [Example 4: Creating a Path](#example-4-creating-a-path)
+- [Practice Exercises](#practice-exercises)
+- [Key Concepts Review](#key-concepts-review)
+- [Common Mistakes](#common-mistakes)
+- [Challenge Project: Draw Your Initials](#challenge-project-draw-your-initials)
+- [Week 1 Checklist](#week-1-checklist)
+- [Next Week Preview](#next-week-preview)
+- [Additional Resources](#additional-resources)
+
+---
+
 ## What is Turtle Graphics?
 
 Turtle graphics is a method of programming vector graphics using a relative cursor (the "turtle") on a Cartesian coordinate system. Imagine a turtle carrying a pen that can move forward, backward, turn left, turn right, and lift/lower its pen to draw.

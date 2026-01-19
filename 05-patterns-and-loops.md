@@ -9,6 +9,28 @@
 
 ---
 
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Simple Repeating Patterns](#simple-repeating-patterns)
+- [Circular Patterns](#circular-patterns)
+- [Spiral Patterns](#spiral-patterns)
+- [Nested Loop Patterns](#nested-loop-patterns)
+- [Rotational Patterns](#rotational-patterns)
+- [Geometric Patterns](#geometric-patterns)
+- [Practice Exercises](#practice-exercises)
+- [Advanced Patterns](#advanced-patterns)
+- [Mathematical Patterns](#mathematical-patterns)
+- [Challenge Project: Mandala Creator](#challenge-project-mandala-creator)
+- [Pattern Design Tips](#pattern-design-tips)
+- [Key Concepts Review](#key-concepts-review)
+- [Common Mistakes](#common-mistakes)
+- [Week 5 Checklist](#week-5-checklist)
+- [Next Week Preview](#next-week-preview)
+- [Additional Practice](#additional-practice)
+
+---
+
 ## Introduction
 
 Patterns are everywhere in nature and art. This week, you'll learn to create beautiful repeating patterns using loops. By combining rotation with repetition, you can create stunning visual effects.

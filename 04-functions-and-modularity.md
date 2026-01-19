@@ -9,6 +9,26 @@
 
 ---
 
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Basic Function Structure](#basic-function-structure)
+- [Functions with Multiple Parameters](#functions-with-multiple-parameters)
+- [Building a Shape Library](#building-a-shape-library)
+- [Default Parameters](#default-parameters)
+- [Saving and Restoring Position](#saving-and-restoring-position)
+- [Advanced Function Examples](#advanced-function-examples)
+- [Practice Exercises](#practice-exercises)
+- [Function Documentation](#function-documentation)
+- [Challenge Project: Scene Builder](#challenge-project-scene-builder)
+- [Key Concepts Review](#key-concepts-review)
+- [Common Mistakes](#common-mistakes)
+- [Week 4 Checklist](#week-4-checklist)
+- [Next Week Preview](#next-week-preview)
+- [Additional Practice](#additional-practice)
+
+---
+
 ## Introduction
 
 This week focuses on code organization and reusability. Functions allow you to write code once and use it many times with different parameters. This is essential for creating complex drawings efficiently.

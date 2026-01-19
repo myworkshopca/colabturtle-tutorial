@@ -10,6 +10,25 @@
 
 ---
 
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Random Module Basics](#random-module-basics)
+- [Random Walks](#random-walks)
+- [Random Shapes](#random-shapes)
+- [Configurable Pattern Generators](#configurable-pattern-generators)
+- [Randomized Fractals](#randomized-fractals)
+- [Generative Art](#generative-art)
+- [Practice Exercises](#practice-exercises)
+- [Advanced Examples](#advanced-examples)
+- [Challenge Project: Generative Art System](#challenge-project-generative-art-system)
+- [Key Concepts Review](#key-concepts-review)
+- [Week 11 Checklist](#week-11-checklist)
+- [Next Week Preview](#next-week-preview)
+- [Additional Practice](#additional-practice)
+
+---
+
 ## Introduction
 
 This week shifts focus to creating dynamic, unpredictable art using randomness and user parameters. You'll build pattern generators that create unique designs every time they run!

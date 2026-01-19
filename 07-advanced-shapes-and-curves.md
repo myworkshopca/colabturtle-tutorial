@@ -9,6 +9,25 @@
 
 ---
 
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Drawing Circles](#drawing-circles)
+- [Drawing Arcs](#drawing-arcs)
+- [Creating Star Shapes](#creating-star-shapes)
+- [Spiral Shapes](#spiral-shapes)
+- [Ellipses and Ovals](#ellipses-and-ovals)
+- [Compound Curves](#compound-curves)
+- [Practice Exercises](#practice-exercises)
+- [Advanced Examples](#advanced-examples)
+- [Challenge Project: Advanced Mandala](#challenge-project-advanced-mandala)
+- [Key Concepts Review](#key-concepts-review)
+- [Week 7 Checklist](#week-7-checklist)
+- [Next Week Preview](#next-week-preview)
+- [Additional Practice](#additional-practice)
+
+---
+
 ## Introduction
 
 This week moves beyond basic polygons to create smooth curves, stars, and spirals. You'll learn mathematical techniques to create beautiful organic and geometric shapes.

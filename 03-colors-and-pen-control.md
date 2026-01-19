@@ -9,6 +9,29 @@
 
 ---
 
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Color Basics](#color-basics)
+- [Available Color Names](#available-color-names)
+- [Pen Width Control](#pen-width-control)
+- [Combining Color and Width](#combining-color-and-width)
+- [Creating Patterns](#creating-patterns)
+- [Creating a Color Wheel](#creating-a-color-wheel)
+- [Practice Exercises](#practice-exercises)
+- [Advanced Example: Colorful Flower](#advanced-example-colorful-flower)
+- [Creating Custom Patterns](#creating-custom-patterns)
+- [Background Color Ideas](#background-color-ideas)
+- [Challenge Project: Sunset Scene](#challenge-project-sunset-scene)
+- [Key Concepts Review](#key-concepts-review)
+- [Common Mistakes](#common-mistakes)
+- [Color Theory Basics](#color-theory-basics)
+- [Week 3 Checklist](#week-3-checklist)
+- [Next Week Preview](#next-week-preview)
+- [Additional Practice](#additional-practice)
+
+---
+
 ## Introduction
 
 Colors bring your turtle graphics to life! This week, you'll learn how to control not just what color the turtle draws with, but also the thickness of lines and the canvas background.

@@ -9,6 +9,26 @@
 
 ---
 
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Understanding the Coordinate System](#understanding-the-coordinate-system)
+- [Manual Navigation](#manual-navigation)
+- [Simpler Position Tracking](#simpler-position-tracking)
+- [Grid-Based Drawing](#grid-based-drawing)
+- [Coordinate-Based Patterns](#coordinate-based-patterns)
+- [Checkerboard Pattern (Improved)](#checkerboard-pattern-improved)
+- [Practice Exercises](#practice-exercises)
+- [Advanced Positioning](#advanced-positioning)
+- [Creating Graphs and Charts](#creating-graphs-and-charts)
+- [Challenge Project: City Skyline](#challenge-project-city-skyline)
+- [Key Concepts Review](#key-concepts-review)
+- [Week 6 Checklist](#week-6-checklist)
+- [Next Week Preview](#next-week-preview)
+- [Additional Practice](#additional-practice)
+
+---
+
 ## Introduction
 
 So far, we've used relative positioning (forward, backward, left, right). This week, you'll learn to think about absolute positions on the canvas and navigate to specific coordinates.
